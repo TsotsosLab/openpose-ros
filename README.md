@@ -1,5 +1,6 @@
 # OpenPose-ROS
 ROS wrapper for [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+[Original home of this project](https://github.com/solbach/openpose-ros)
 
 ## Installation
 ### Preliminaries
